@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/button_pause.cs">
+    <Files>
+      <File FileName="Assets/button_pause.cs" Line="52" Column="3" />
+      <File FileName="Assets/button.cs" Line="13" Column="22" />
+      <File FileName="Assets/DragHandler.cs" Line="12" Column="3" />
+      <File FileName="Assets/script_UI.cs" Line="46" Column="25" />
+      <File FileName="Assets/Scripts/gameManager.cs" Line="48" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
