@@ -5,7 +5,7 @@ Ensemble de mini jeux dont un Flappy Bird
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26154423/bfc08940-3b0f-11e7-812b-1a0164b7e69c.png)
 
 D01  
-Jeu simple ou faire collaborer tous les joueurs (piéces de couleur) pour gagner
+Jeu simple ou il faut faire collaborer tous les joueurs (piéces de couleur) pour gagner
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26154536/2779185e-3b10-11e7-8d4a-ff40cbe3efcb.png)
 
 D02  
