@@ -1,18 +1,23 @@
 # Piscine-Unity
 
-D00  Ensemble de petit jeu dont un Flappy Bird
+D00  
+Ensemble de mini jeux dont un Flappy Bird
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26154423/bfc08940-3b0f-11e7-812b-1a0164b7e69c.png)
 
-D01
+D01  
+Jeu simple ou faire collaborer tous les joueurs (piéces de couleur) pour gagner
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26154536/2779185e-3b10-11e7-8d4a-ff40cbe3efcb.png)
 
-D02
+D02  
+Jeu simple sur le thème de Warcraft
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26154823/45d7d8b6-3b11-11e7-93dc-696794b037bb.png)
 
 D03
+Jeu simple de Tower Defense avec une gestion d'une interface (drag and drop, ect)
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26154652/afb1ceaa-3b10-11e7-9dba-80df226af117.png)
 
-D05
+D05  
+Jeu de simulation de golf
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26155002/06a59132-3b12-11e7-889d-4fd1cee148cb.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26155006/080bc83e-3b12-11e7-9cd4-d6922977c21b.png)
 
