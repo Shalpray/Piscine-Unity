@@ -1,4 +1,5 @@
 # Piscine-Unity
+Chaque projet a été fait en une journée sauf pour Rush00 qui s'effectue sur un week-end et en groupe de 2.
 
 D00  
 Ensemble de mini jeux dont un Flappy Bird
