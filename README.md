@@ -22,6 +22,7 @@ Jeu de simulation de golf
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26155006/080bc83e-3b12-11e7-9cd4-d6922977c21b.png)
 
 D06
+Jeu d'infiltration avec une jauge de discrétion dans l'UI (Camera de surveillance, ventilateur, clef)
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26155537/ceaaff7c-3b13-11e7-9e63-ccaf61cc2d4d.png)
 ![alt tag](https://cloud.githubusercontent.com/assets/7196430/26155538/cfbdf90a-3b13-11e7-93c7-34cacb00b924.png)
 
